@@ -1,0 +1,10 @@
+C:\Users\OscarFreij\source\repos\PlayTimeTicker\bin\Debug\PlayTimeTicker.exe.config
+C:\Users\OscarFreij\source\repos\PlayTimeTicker\bin\Debug\PlayTimeTicker.exe
+C:\Users\OscarFreij\source\repos\PlayTimeTicker\bin\Debug\PlayTimeTicker.pdb
+C:\Users\OscarFreij\source\repos\PlayTimeTicker\obj\Debug\PlayTimeTicker.csproj.AssemblyReference.cache
+C:\Users\OscarFreij\source\repos\PlayTimeTicker\obj\Debug\PlayTimeTicker.Form1.resources
+C:\Users\OscarFreij\source\repos\PlayTimeTicker\obj\Debug\PlayTimeTicker.Properties.Resources.resources
+C:\Users\OscarFreij\source\repos\PlayTimeTicker\obj\Debug\PlayTimeTicker.csproj.GenerateResource.cache
+C:\Users\OscarFreij\source\repos\PlayTimeTicker\obj\Debug\PlayTimeTicker.csproj.CoreCompileInputs.cache
+C:\Users\OscarFreij\source\repos\PlayTimeTicker\obj\Debug\PlayTimeTicker.exe
+C:\Users\OscarFreij\source\repos\PlayTimeTicker\obj\Debug\PlayTimeTicker.pdb
